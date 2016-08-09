@@ -7,16 +7,20 @@ keywords: []
 description: >-
   porter is a platform to deploy Docker containers to EC2. You might ask, "isn't
   that what ECS does?". Not quite.
-datePublished: '2016-08-09T15:48:37.194Z'
-dateModified: '2016-08-09T15:47:15.626Z'
+datePublished: '2016-08-09T16:11:07.615Z'
+dateModified: '2016-08-09T16:10:53.586Z'
 title: ''
 author: []
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-09-porter-is-a-platform-to-deploy-docker-containers-to-ec2-you.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: porter-is-a-platform-to-deploy-docker-containers-to-ec2-you/index.html
 _type: Article
 
