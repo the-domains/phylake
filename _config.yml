@@ -1,7 +1,7 @@
 name: phylake
 favicon: null
-layout_spectrum: 0.5880755931138992
-typography_spectrum: 0.2145878120791167
+layout_spectrum: 0.45585
+typography_spectrum: 0.35445
 cta:
   domain: null
   bucket: null
