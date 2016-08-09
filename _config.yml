@@ -1,0 +1,28 @@
+name: phylake
+favicon: null
+layout_spectrum: 0.5880755931138992
+typography_spectrum: 0.2145878120791167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.117638791911304
+  lightness: 0.9280295404605567
+  saturation: 0.3103380741085857
+  rhythmicContrast: 0.5638475667219609
+purpose: []
