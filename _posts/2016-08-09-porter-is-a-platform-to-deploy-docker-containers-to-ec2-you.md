@@ -7,8 +7,8 @@ keywords: []
 description: >-
   porter is a platform to deploy Docker containers to EC2. You might ask, "isn't
   that what ECS does?". Not quite.
-datePublished: '2016-08-09T16:11:07.615Z'
-dateModified: '2016-08-09T16:10:53.586Z'
+datePublished: '2016-08-09T16:13:05.255Z'
+dateModified: '2016-08-09T16:13:01.909Z'
 title: ''
 author: []
 via: {}
